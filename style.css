@@ -12,8 +12,9 @@ body{
 }
 
 .tblImage{
-    margin-left: 38%;
+    margin-left: 35%;
     border-radius: 190%;
+    border-style: solid;
 }
 
 div h3{
@@ -21,7 +22,19 @@ div h3{
 }
 
 button{
+    background-color: #d4243b; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
     margin-left: 40%;
+    
 }
 
 
@@ -57,5 +70,5 @@ nav a{
 }
 
 .filmSpaceOdyssey{
-    float: right;
+    float: inherit;
 }
