@@ -1,9 +1,14 @@
-/************Reseau sociaux************/
+body{
+    background-color: grey;
+}
+
+/************TimBernerLee************/
 .contenueTimBernerLee{
     border-style: solid;
     margin: 220px;
     padding: 10px;
-    margin-top: auto;
+    margin-top: 2%;
+    background-color: white;
 }
 
 .tblImage{
@@ -15,12 +20,42 @@ div h3{
     text-align: center;
 }
 
+button{
+    margin-left: 40%;
+}
+
 
 /************Reseau sociaux************/
 .contenueReseauSociaux{
+    position: relative;
     border-style: solid;
+    margin: 220px;
+    padding: 10px;
+    background-color: white;
+    bottom: 150px;
+}
+
+nav a{
+    position: relative;
+    padding: 40px;
+    left: 20%;
 }
 
 
 
+
+
 /************Favorite film************/
+.contenueFavFilm{
+    border-style: solid;
+    position: absolute;
+    margin: 220px;
+    padding: 10px;
+    top: 120%;
+    margin-top: 2%;
+    background-color: white;
+}
+
+.filmSpaceOdyssey{
+    float: right;
+}
