@@ -11,6 +11,10 @@ body{
     background-color: white;
 }
 
+.Tbl{
+    font-family: 'Open Sans', sans-serif;
+}
+
 .tblImage{
     margin-left: 35%;
     border-radius: 190%;
@@ -19,6 +23,7 @@ body{
 
 div h3{
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
 }
 
 button{
@@ -69,6 +74,9 @@ nav a{
     background-color: white;
 }
 
-.filmSpaceOdyssey{
-    float: inherit;
+h4{
+    font-family: 'Open Sans', sans-serif;
 }
+
+
+
